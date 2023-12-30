@@ -1,5 +1,7 @@
 # Resume_Classifier_Assignment
 
-This task aims to develop a model for classifying images as either resumes or non-resumes.
+The primary objective of this project is to design and implement a robust image classification model capable of distinguishing between resume and non-resume.
 
-Models implemented are :- VGG19 and ResNet50.
+The dataset used for training comprises a diverse set of images representing both resumes and non-resumes.
+
+Models implemented are:- VGG19 and ResNet50
